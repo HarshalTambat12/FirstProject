@@ -1793,3 +1793,162 @@
 2021-10-31 18:31:23,576  INFO [main] Baseclass:13 - Testcase ready to sdtart with name: checkTitle
 2021-10-31 18:31:23,608  INFO [main] Baseclass:18 - Testcase passed successfully with name: checkTitle
 2021-10-31 18:31:23,721  INFO [main] Baseclass:47 - test suite is finished
+2021-11-10 20:06:21,743  INFO [main] Baseclass:42 - test suite is started
+2021-11-10 20:06:21,761  INFO [main] Baseclass:30 - Initializing Browser
+2021-11-10 20:06:24,415  INFO [main] Baseclass:37 - Maximizing Browser
+2021-11-10 20:06:24,558  INFO [main] Baseclass:39 - Applying common waits to browser
+2021-11-10 20:06:24,608  INFO [main] Baseclass:13 - Testcase ready to sdtart with name: Handlepoup
+2021-11-10 20:06:25,056  INFO [main] Baseclass:18 - Testcase passed successfully with name: Handlepoup
+2021-11-10 20:06:25,128  INFO [main] Baseclass:30 - Initializing Browser
+2021-11-10 20:06:26,639  INFO [main] Baseclass:37 - Maximizing Browser
+2021-11-10 20:06:26,763  INFO [main] Baseclass:39 - Applying common waits to browser
+2021-11-10 20:06:26,778  INFO [main] Baseclass:13 - Testcase ready to sdtart with name: NewRegister
+2021-11-10 20:06:26,909  INFO [main] Baseclass:18 - Testcase passed successfully with name: NewRegister
+2021-11-10 20:06:26,957  INFO [main] Baseclass:30 - Initializing Browser
+2021-11-10 20:06:28,411  INFO [main] Baseclass:37 - Maximizing Browser
+2021-11-10 20:06:28,548  INFO [main] Baseclass:39 - Applying common waits to browser
+2021-11-10 20:06:28,557  INFO [main] Baseclass:13 - Testcase ready to sdtart with name: ValidLogin
+2021-11-10 20:06:28,564  INFO [main] Baseclass:23 - Testcase failed with name: ValidLogin
+2021-11-10 20:06:28,566  INFO [main] Baseclass:24 - java.lang.AssertionError: expected:<JavaByKiran | Log in> but was:<JavaByKiran | Log>
+2021-11-10 20:06:28,797  INFO [main] Baseclass:30 - Initializing Browser
+2021-11-10 20:06:30,116  INFO [main] Baseclass:37 - Maximizing Browser
+2021-11-10 20:06:30,238  INFO [main] Baseclass:39 - Applying common waits to browser
+2021-11-10 20:06:30,261  INFO [main] Baseclass:13 - Testcase ready to sdtart with name: checktext1
+2021-11-10 20:06:30,310  INFO [main] Baseclass:18 - Testcase passed successfully with name: checktext1
+2021-11-10 20:06:30,353  INFO [main] Baseclass:30 - Initializing Browser
+2021-11-10 20:06:31,811  INFO [main] Baseclass:37 - Maximizing Browser
+2021-11-10 20:06:31,928  INFO [main] Baseclass:39 - Applying common waits to browser
+2021-11-10 20:06:33,365  INFO [main] Baseclass:13 - Testcase ready to sdtart with name: Checktitle
+2021-11-10 20:06:33,369  INFO [main] Baseclass:18 - Testcase passed successfully with name: Checktitle
+2021-11-10 20:06:33,409  INFO [main] Baseclass:30 - Initializing Browser
+2021-11-10 20:06:34,831  INFO [main] Baseclass:37 - Maximizing Browser
+2021-11-10 20:06:34,951  INFO [main] Baseclass:39 - Applying common waits to browser
+2021-11-10 20:06:36,150  INFO [main] Baseclass:13 - Testcase ready to sdtart with name: checkimage
+2021-11-10 20:06:36,232  INFO [main] Baseclass:18 - Testcase passed successfully with name: checkimage
+2021-11-10 20:06:36,270  INFO [main] Baseclass:30 - Initializing Browser
+2021-11-10 20:06:37,804  INFO [main] Baseclass:37 - Maximizing Browser
+2021-11-10 20:06:37,928  INFO [main] Baseclass:39 - Applying common waits to browser
+2021-11-10 20:06:39,386  INFO [main] Baseclass:13 - Testcase ready to sdtart with name: verifycourses
+2021-11-10 20:06:39,428  INFO [main] Baseclass:18 - Testcase passed successfully with name: verifycourses
+2021-11-10 20:06:39,467  INFO [main] Baseclass:30 - Initializing Browser
+2021-11-10 20:06:40,848  INFO [main] Baseclass:37 - Maximizing Browser
+2021-11-10 20:06:41,000  INFO [main] Baseclass:39 - Applying common waits to browser
+2021-11-10 20:06:42,219  INFO [main] Baseclass:13 - Testcase ready to sdtart with name: TestcaseTitle
+2021-11-10 20:06:42,222  INFO [main] Baseclass:18 - Testcase passed successfully with name: TestcaseTitle
+2021-11-10 20:06:42,270  INFO [main] Baseclass:30 - Initializing Browser
+2021-11-10 20:06:43,680  INFO [main] Baseclass:37 - Maximizing Browser
+2021-11-10 20:06:43,812  INFO [main] Baseclass:39 - Applying common waits to browser
+2021-11-10 20:06:44,976  INFO [main] Baseclass:13 - Testcase ready to sdtart with name: checkTitle
+2021-11-10 20:06:44,980  INFO [main] Baseclass:18 - Testcase passed successfully with name: checkTitle
+2021-11-10 20:06:45,023  INFO [main] Baseclass:30 - Initializing Browser
+2021-11-10 20:06:46,401  INFO [main] Baseclass:37 - Maximizing Browser
+2021-11-10 20:06:46,517  INFO [main] Baseclass:39 - Applying common waits to browser
+2021-11-10 20:06:47,845  INFO [main] Baseclass:13 - Testcase ready to sdtart with name: checkTitle
+2021-11-10 20:06:47,863  INFO [main] Baseclass:18 - Testcase passed successfully with name: checkTitle
+2021-11-10 20:06:47,943  INFO [main] Baseclass:47 - test suite is finished
+2021-11-10 20:07:37,151  INFO [main] Baseclass:42 - test suite is started
+2021-11-10 20:07:37,171  INFO [main] Baseclass:30 - Initializing Browser
+2021-11-10 20:07:39,071  INFO [main] Baseclass:37 - Maximizing Browser
+2021-11-10 20:07:39,213  INFO [main] Baseclass:39 - Applying common waits to browser
+2021-11-10 20:07:39,264  INFO [main] Baseclass:13 - Testcase ready to sdtart with name: Handlepoup
+2021-11-10 20:07:39,631  INFO [main] Baseclass:18 - Testcase passed successfully with name: Handlepoup
+2021-11-10 20:07:39,683  INFO [main] Baseclass:30 - Initializing Browser
+2021-11-10 20:07:41,285  INFO [main] Baseclass:37 - Maximizing Browser
+2021-11-10 20:07:41,410  INFO [main] Baseclass:39 - Applying common waits to browser
+2021-11-10 20:07:41,419  INFO [main] Baseclass:13 - Testcase ready to sdtart with name: NewRegister
+2021-11-10 20:07:41,557  INFO [main] Baseclass:18 - Testcase passed successfully with name: NewRegister
+2021-11-10 20:07:41,589  INFO [main] Baseclass:30 - Initializing Browser
+2021-11-10 20:07:42,973  INFO [main] Baseclass:37 - Maximizing Browser
+2021-11-10 20:07:43,088  INFO [main] Baseclass:39 - Applying common waits to browser
+2021-11-10 20:07:43,095  INFO [main] Baseclass:13 - Testcase ready to sdtart with name: ValidLogin
+2021-11-10 20:07:43,101  INFO [main] Baseclass:23 - Testcase failed with name: ValidLogin
+2021-11-10 20:07:43,102  INFO [main] Baseclass:24 - java.lang.AssertionError: expected:<JavaByKiran | Log in> but was:<JavaByKiran | Log>
+2021-11-10 20:07:43,309  INFO [main] Baseclass:30 - Initializing Browser
+2021-11-10 20:07:44,796  INFO [main] Baseclass:37 - Maximizing Browser
+2021-11-10 20:07:44,940  INFO [main] Baseclass:39 - Applying common waits to browser
+2021-11-10 20:07:44,957  INFO [main] Baseclass:13 - Testcase ready to sdtart with name: checktext1
+2021-11-10 20:07:44,997  INFO [main] Baseclass:18 - Testcase passed successfully with name: checktext1
+2021-11-10 20:07:45,038  INFO [main] Baseclass:30 - Initializing Browser
+2021-11-10 20:07:46,568  INFO [main] Baseclass:37 - Maximizing Browser
+2021-11-10 20:07:46,693  INFO [main] Baseclass:39 - Applying common waits to browser
+2021-11-10 20:07:47,869  INFO [main] Baseclass:13 - Testcase ready to sdtart with name: Checktitle
+2021-11-10 20:07:47,873  INFO [main] Baseclass:18 - Testcase passed successfully with name: Checktitle
+2021-11-10 20:07:47,918  INFO [main] Baseclass:30 - Initializing Browser
+2021-11-10 20:07:49,296  INFO [main] Baseclass:37 - Maximizing Browser
+2021-11-10 20:07:49,422  INFO [main] Baseclass:39 - Applying common waits to browser
+2021-11-10 20:07:50,568  INFO [main] Baseclass:13 - Testcase ready to sdtart with name: checkimage
+2021-11-10 20:07:50,600  INFO [main] Baseclass:18 - Testcase passed successfully with name: checkimage
+2021-11-10 20:07:50,646  INFO [main] Baseclass:30 - Initializing Browser
+2021-11-10 20:07:52,346  INFO [main] Baseclass:37 - Maximizing Browser
+2021-11-10 20:07:52,488  INFO [main] Baseclass:39 - Applying common waits to browser
+2021-11-10 20:07:53,641  INFO [main] Baseclass:13 - Testcase ready to sdtart with name: verifycourses
+2021-11-10 20:07:53,683  INFO [main] Baseclass:18 - Testcase passed successfully with name: verifycourses
+2021-11-10 20:07:53,724  INFO [main] Baseclass:30 - Initializing Browser
+2021-11-10 20:07:55,207  INFO [main] Baseclass:37 - Maximizing Browser
+2021-11-10 20:07:55,327  INFO [main] Baseclass:39 - Applying common waits to browser
+2021-11-10 20:07:56,658  INFO [main] Baseclass:13 - Testcase ready to sdtart with name: TestcaseTitle
+2021-11-10 20:07:56,662  INFO [main] Baseclass:18 - Testcase passed successfully with name: TestcaseTitle
+2021-11-10 20:07:56,705  INFO [main] Baseclass:30 - Initializing Browser
+2021-11-10 20:07:58,214  INFO [main] Baseclass:37 - Maximizing Browser
+2021-11-10 20:07:58,334  INFO [main] Baseclass:39 - Applying common waits to browser
+2021-11-10 20:07:59,468  INFO [main] Baseclass:13 - Testcase ready to sdtart with name: checkTitle
+2021-11-10 20:07:59,472  INFO [main] Baseclass:18 - Testcase passed successfully with name: checkTitle
+2021-11-10 20:07:59,519  INFO [main] Baseclass:30 - Initializing Browser
+2021-11-10 20:08:00,859  INFO [main] Baseclass:37 - Maximizing Browser
+2021-11-10 20:08:00,984  INFO [main] Baseclass:39 - Applying common waits to browser
+2021-11-10 20:08:02,143  INFO [main] Baseclass:13 - Testcase ready to sdtart with name: checkTitle
+2021-11-10 20:08:02,164  INFO [main] Baseclass:18 - Testcase passed successfully with name: checkTitle
+2021-11-10 20:08:02,249  INFO [main] Baseclass:47 - test suite is finished
+2021-11-11 16:55:19,134  INFO [main] Baseclass:42 - test suite is started
+2021-11-11 16:55:19,167  INFO [main] Baseclass:30 - Initializing Browser
+2021-11-11 16:55:22,406  INFO [main] Baseclass:37 - Maximizing Browser
+2021-11-11 16:55:22,539  INFO [main] Baseclass:39 - Applying common waits to browser
+2021-11-11 16:55:22,627  INFO [main] Baseclass:13 - Testcase ready to sdtart with name: Handlepoup
+2021-11-11 16:55:23,257  INFO [main] Baseclass:18 - Testcase passed successfully with name: Handlepoup
+2021-11-11 16:55:23,334  INFO [main] Baseclass:30 - Initializing Browser
+2021-11-11 16:55:24,960  INFO [main] Baseclass:37 - Maximizing Browser
+2021-11-11 16:55:25,087  INFO [main] Baseclass:39 - Applying common waits to browser
+2021-11-11 16:55:25,096  INFO [main] Baseclass:13 - Testcase ready to sdtart with name: NewRegister
+2021-11-11 16:55:25,280  INFO [main] Baseclass:18 - Testcase passed successfully with name: NewRegister
+2021-11-11 16:55:25,345  INFO [main] Baseclass:30 - Initializing Browser
+2021-11-11 16:55:26,849  INFO [main] Baseclass:37 - Maximizing Browser
+2021-11-11 16:55:26,990  INFO [main] Baseclass:39 - Applying common waits to browser
+2021-11-11 16:55:26,999  INFO [main] Baseclass:13 - Testcase ready to sdtart with name: ValidLogin
+2021-11-11 16:55:27,010  INFO [main] Baseclass:23 - Testcase failed with name: ValidLogin
+2021-11-11 16:55:27,011  INFO [main] Baseclass:24 - java.lang.AssertionError: expected:<JavaByKiran | Log in> but was:<JavaByKiran | Log>
+2021-11-11 16:55:27,288  INFO [main] Baseclass:30 - Initializing Browser
+2021-11-11 16:55:28,928  INFO [main] Baseclass:37 - Maximizing Browser
+2021-11-11 16:55:29,063  INFO [main] Baseclass:39 - Applying common waits to browser
+2021-11-11 16:55:29,072  INFO [main] Baseclass:13 - Testcase ready to sdtart with name: checktext1
+2021-11-11 16:55:29,129  INFO [main] Baseclass:18 - Testcase passed successfully with name: checktext1
+2021-11-11 16:55:29,188  INFO [main] Baseclass:30 - Initializing Browser
+2021-11-11 16:55:30,743  INFO [main] Baseclass:37 - Maximizing Browser
+2021-11-11 16:55:30,879  INFO [main] Baseclass:39 - Applying common waits to browser
+2021-11-11 16:55:32,303  INFO [main] Baseclass:13 - Testcase ready to sdtart with name: Checktitle
+2021-11-11 16:55:32,314  INFO [main] Baseclass:18 - Testcase passed successfully with name: Checktitle
+2021-11-11 16:55:32,369  INFO [main] Baseclass:30 - Initializing Browser
+2021-11-11 16:55:33,970  INFO [main] Baseclass:37 - Maximizing Browser
+2021-11-11 16:55:34,102  INFO [main] Baseclass:39 - Applying common waits to browser
+2021-11-11 16:55:35,404  INFO [main] Baseclass:13 - Testcase ready to sdtart with name: checkimage
+2021-11-11 16:55:35,468  INFO [main] Baseclass:18 - Testcase passed successfully with name: checkimage
+2021-11-11 16:55:35,531  INFO [main] Baseclass:30 - Initializing Browser
+2021-11-11 16:55:37,444  INFO [main] Baseclass:37 - Maximizing Browser
+2021-11-11 16:55:37,568  INFO [main] Baseclass:39 - Applying common waits to browser
+2021-11-11 16:55:38,750  INFO [main] Baseclass:13 - Testcase ready to sdtart with name: verifycourses
+2021-11-11 16:55:38,817  INFO [main] Baseclass:18 - Testcase passed successfully with name: verifycourses
+2021-11-11 16:55:38,881  INFO [main] Baseclass:30 - Initializing Browser
+2021-11-11 16:55:40,441  INFO [main] Baseclass:37 - Maximizing Browser
+2021-11-11 16:55:40,583  INFO [main] Baseclass:39 - Applying common waits to browser
+2021-11-11 16:55:42,168  INFO [main] Baseclass:13 - Testcase ready to sdtart with name: TestcaseTitle
+2021-11-11 16:55:42,176  INFO [main] Baseclass:18 - Testcase passed successfully with name: TestcaseTitle
+2021-11-11 16:55:42,245  INFO [main] Baseclass:30 - Initializing Browser
+2021-11-11 16:55:45,666  INFO [main] Baseclass:37 - Maximizing Browser
+2021-11-11 16:55:45,796  INFO [main] Baseclass:39 - Applying common waits to browser
+2021-11-11 16:55:47,182  INFO [main] Baseclass:13 - Testcase ready to sdtart with name: checkTitle
+2021-11-11 16:55:47,190  INFO [main] Baseclass:18 - Testcase passed successfully with name: checkTitle
+2021-11-11 16:55:47,254  INFO [main] Baseclass:30 - Initializing Browser
+2021-11-11 16:55:49,031  INFO [main] Baseclass:37 - Maximizing Browser
+2021-11-11 16:55:49,149  INFO [main] Baseclass:39 - Applying common waits to browser
+2021-11-11 16:55:50,547  INFO [main] Baseclass:13 - Testcase ready to sdtart with name: checkTitle
+2021-11-11 16:55:50,576  INFO [main] Baseclass:18 - Testcase passed successfully with name: checkTitle
+2021-11-11 16:55:50,682  INFO [main] Baseclass:47 - test suite is finished
